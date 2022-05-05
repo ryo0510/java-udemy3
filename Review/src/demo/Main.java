@@ -18,7 +18,8 @@ public class Main {
 			System.out.println(mem.getId() + "," + mem.getName() + "," + mem.getEmail());
 		}
 		
-
+		System.out.println(service.sumOf(3, 5));
+		
 	}
 
 }
